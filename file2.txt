@@ -1,2 +1,3 @@
-hello��
-this for feature3
+﻿hello��
+add feature2
+
